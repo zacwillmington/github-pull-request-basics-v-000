@@ -7,7 +7,6 @@
 2. Identify how to add commits to an existing pull request
 
 ## Overview:
-
 The concept of a pull request is unique to Github. It is a request for the
 owner of a receiving repository (`learn-co-students` in the case of labs) to
 "pull" an update from _your_ "fork" of that repository.
@@ -65,6 +64,7 @@ jQuery).
 ### Step 1
 
 Click on the New Pull Request button.
+
 
 ![](https://curriculum-content.s3.amazonaws.com/gitpulls/2.png)
 
